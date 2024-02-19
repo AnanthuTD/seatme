@@ -37,6 +37,17 @@
           }
         }
       ],
-    ]
+      [
+        "expo-updates",
+        {
+          "username": "ananthutd"
+        }
+      ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "c485ccfb-4b23-41aa-ac8f-c17e0fe785b0"
+      }
+    }
   }
 }
